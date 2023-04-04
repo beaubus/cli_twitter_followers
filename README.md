@@ -1,0 +1,1 @@
+Simple app which prints twitter followers of the given account.  
